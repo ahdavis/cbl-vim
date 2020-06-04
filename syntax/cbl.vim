@@ -70,6 +70,6 @@ hi def link mlcomment Comment
 hi def link intLit Constant
 hi def link decLit Constant 
 hi def link strLit String 
-hi def link boolLit Keyword 
+hi def link boolLit Constant
 
 " end of file

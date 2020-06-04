@@ -38,7 +38,7 @@ syn match op "\[\]"
 
 " define reserved language keywords
 syn keyword reserved if else while do for in at ir continue break return filter await async include
-syn keyword reserved inline constructor singleton type macro constexpr property is 
+syn keyword reserved inline constructor singleton type macro constexpr property is this
 syn keyword reserved operator nextgroup=op 
 
 " define types
